@@ -3,7 +3,7 @@ Public proposal and issue tracker repository for V-Sekai
 
 👇 Click on the badge to view.
 
-[![V-Sekai Decision Records](https://V-Sekai.github.io/v-sekai-proposals/log4brains/badge.svg)](https://V-Sekai.github.io/v-sekai-proposals/log4brains/)
+[![K. S. Ernest (iFire) Lee Decision Records](https://fire.github.io/fire-proposals/log4brains/badge.svg)](https://fire.github.io/fire-proposals/log4brains/)
 
 ## How to use?
 
