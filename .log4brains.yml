@@ -1,0 +1,5 @@
+project:
+  name: K. S. Ernest (iFire) Lee
+  tz: America/Vancouver
+  adrFolder: ./docs/decisions
+  packages: []
