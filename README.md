@@ -7,15 +7,24 @@ Public proposal and issue tracker repository for V-Sekai
 
 ## How to use?
 
-```
+```bash
 # Setup
 mkdir -p ~/.local/bin/
 npm config set prefix ~/.local
+```
+
+```bash
+# put in ~/.bash.rc
 export PATH=~/.local/bin/:$PATH
+```
+
+```bash
+# Install
 npm install -g log4brains
 ```
 
-```
+```bash
+# Create a new adr.
 log4brains adr new
 ```
 
