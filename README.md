@@ -1,5 +1,6 @@
-# v-sekai-proposals
-Public proposal and issue tracker repository for V-Sekai
+# fire-proposals
+
+Public proposal and issue tracker repository for fire
 
 👇 Click on the badge to view.
 
