@@ -1,4 +1,3 @@
-
 # Create fire's avatar through experimentation.
 
 - Status: accepted <!-- draft | rejected | accepted | deprecated | superseded by -->
