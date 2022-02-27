@@ -26,7 +26,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 1. execute desktop elixir app
 2. create coordination sqlite database
     * MUST USE SQLITE STRICT TABLES 
-4. queue jobs in the DAG pipeline
+4. queue jobs in the DAG pipeline (Membrane framework)
 5. execute pipeline using pull
 6. record success
 7. repeat
