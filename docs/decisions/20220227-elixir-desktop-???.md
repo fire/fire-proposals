@@ -1,4 +1,4 @@
-# Elixir desktop tool to batch execute Blender
+# Elixir desktop tool to batch execute Godot
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
 - Deciders: fire,
@@ -6,7 +6,7 @@
 
 ## Context and Problem Statement
 
-Want to automate my Blender workflows to auto rig and auto animate a character.
+Want to automate my Godot workflows to auto rig and auto animate a character.
 
 ## Describe the proposed option and how it helps to overcome the problem or limitation
 
