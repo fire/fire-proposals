@@ -24,7 +24,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 1. everything is offline first
 1. execute desktop elixir app
-2. persisted queues on rabbitmq
+2. https://github.com/shinyscorpion/task_bunny
 5. execute in DAG pipeline (Membrane framework)
 6. pop job
 7. execute pipeline using pull
