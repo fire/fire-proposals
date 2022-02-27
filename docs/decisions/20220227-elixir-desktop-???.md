@@ -1,4 +1,4 @@
-# [short title of solved problem and solution]
+# Elixir desktop tool to batch execute Blender
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
 - Deciders: fire,
@@ -6,27 +6,27 @@
 
 ## Context and Problem Statement
 
-[Describe the problem or limitation you are having in your project]
-
-[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in the form of a question.]
+Want to automate my Blender workflows to auto rig and auto animate a character.
 
 ## Describe the proposed option and how it helps to overcome the problem or limitation
 
-[Describe the proposed option and how it helps to overcome the problem or limitation]
+Use my existing tooling to pipeline execute Blender workflows.
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
-[Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams]
+1. execute desktop elixir app
+2. create sqlite database
+3. rest queue jobs from s3
+4. execute pipeline using pull
+5. push to s3
 
 ## Positive Consequences <!-- optional -->
 
-- [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
+- Experiment seed
 
 ## Negative Consequences <!-- optional -->
 
-- [e.g., compromising quality attribute, follow-up decisions required, …]
-
-[this section can be repeated for each option if more than one option is open for consideration]
+- ???
 
 ## Option graveyard: <!-- same as above -->
 
