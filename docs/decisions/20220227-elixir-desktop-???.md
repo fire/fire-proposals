@@ -14,6 +14,7 @@ Use my existing tooling to pipeline execute Blender workflows.
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
+1. everything is airgapped
 1. execute desktop elixir app
 2. create sqlite database
 3. rest queue jobs from s3
