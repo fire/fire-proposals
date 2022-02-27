@@ -16,7 +16,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 1. everything is offline first
 1. execute desktop elixir app
-2. create sqlite database
+2. create coordination sqlite database
 3. queue jobs in the DAG pipeline
 4. execute pipeline using pull
 5. record success
