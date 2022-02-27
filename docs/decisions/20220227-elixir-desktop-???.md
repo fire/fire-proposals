@@ -24,8 +24,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 1. everything is offline first
 1. execute desktop elixir app
-2. https://rfc.zeromq.org/spec/9/
-3. https://hex.pm/packages/chumak
+2. persisted queues on rabbitmq
 4. queue jobs in OBAN
 5. execute in DAG pipeline (Membrane framework)
 6. pop job
