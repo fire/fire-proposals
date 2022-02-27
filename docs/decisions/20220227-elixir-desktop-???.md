@@ -24,13 +24,14 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 1. everything is offline first
 1. execute desktop elixir app
-2. create coordination ecto database
+2. https://rfc.zeromq.org/spec/9/
+3. https://hex.pm/packages/chumak
 4. queue jobs in OBAN
 5. execute in DAG pipeline (Membrane framework)
 6. pop job
-6. execute pipeline using pull
-7. record success
-8. repeat
+7. execute pipeline using pull
+8. record success
+9. repeat
 
 ## Positive Consequences <!-- optional -->
 
