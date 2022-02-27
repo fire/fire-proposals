@@ -14,7 +14,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
-1. everything is airgapped
+1. everything is offline first
 1. execute desktop elixir app
 2. create sqlite database
 3. queue jobs in the DAG pipeline
