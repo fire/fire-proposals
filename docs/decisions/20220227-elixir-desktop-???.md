@@ -1,4 +1,4 @@
-# Elixir desktop tool to batch execute Godot
+# Elixir desktop tool to batch execute dem bones
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
 - Deciders: fire,
@@ -6,11 +6,19 @@
 
 ## Context and Problem Statement
 
-Want to automate my Godot workflows to auto rig and auto animate a character.
+Want to automate my Godot mesh workflows.
 
 ## Describe the proposed option and how it helps to overcome the problem or limitation
 
 Use my existing tooling to pipeline execute Godot workflows.
+
+### Wishlist
+
+* Ingest godot scene
+* ???
+* Run dem bones
+* ???
+* Export gltf
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
