@@ -24,7 +24,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 1. everything is offline first
 1. execute desktop elixir app
-2. Chumak + persisted queues?
+2. ecto queue
 5. execute in DAG pipeline (Membrane framework)
 6. pop job
 7. execute pipeline using pull
