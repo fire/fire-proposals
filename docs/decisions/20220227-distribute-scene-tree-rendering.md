@@ -45,6 +45,10 @@ Want to mirror and distribute the scene tree execution.
 - https://www.cockroachlabs.com/docs/stable/architecture/distribution-layer.html
 - https://timilearning.com/posts/mit-6.824/lecture-12-distributed-transactions/
 
+### Diagrams
+
+![image0](https://user-images.githubusercontent.com/32321/155905052-421b4ce6-9d37-4653-9a60-98388463ed1a.jpg)
+
 ## Derivative License
 
 Copyright (c) 2021 K. S. Ernest (iFire) Lee.
