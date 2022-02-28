@@ -14,7 +14,8 @@ Want to mirror and distribute the scene tree execution.
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
-[Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams]
+1. global addressing for metadata
+2. split ranges for simulation
 
 ## Positive Consequences <!-- optional -->
 
