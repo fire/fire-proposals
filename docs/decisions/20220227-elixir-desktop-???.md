@@ -55,8 +55,7 @@ Use my existing tooling to pipeline execute Godot workflows.
 
 ## References <!-- optional -->
 
-- [Link type](link to decision) <!-- example: Refined by [xxx](yyyymmdd-xxx.md) -->
-- <!-- numbers of links can vary -->
+- OpenFaaS Kubernetes
 
 ## Derivative License
 
