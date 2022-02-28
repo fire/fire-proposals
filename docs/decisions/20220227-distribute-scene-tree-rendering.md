@@ -1,4 +1,4 @@
-# Use khepri to execute scene tree
+# To distribute the scene tree use khepri
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
 - Deciders: fire,
