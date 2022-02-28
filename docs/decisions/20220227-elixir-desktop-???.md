@@ -56,6 +56,8 @@ Use my existing tooling to pipeline execute Godot workflows.
 ## References <!-- optional -->
 
 - OpenFaaS Kubernetes
+- https://gobblin.apache.org/
+- Airflow
 
 ## Derivative License
 
