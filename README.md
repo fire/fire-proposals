@@ -4,7 +4,7 @@ Public proposal and issue tracker repository for fire
 
 👇 Click on the badge to view.
 
-[![K. S. Ernest (iFire) Lee Decision Records](https://fire.github.io/fire-proposals/log4brains/badge.svg)](https://fire.github.io/fire-proposals/log4brains/)
+[![K. S. Ernest (iFire) Lee Decision Records](https://fire.github.io/log4brains/badge.svg)](https://fire.github.io/log4brains/)
 
 ## How to use?
 
